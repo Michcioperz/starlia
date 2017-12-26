@@ -1,0 +1,6 @@
+[package]
+name = "starlia"
+version = "0.1.0"
+authors = ["Michał Sidor (Michcioperz) <public+git@meekchopp.es>"]
+
+[dependencies]
